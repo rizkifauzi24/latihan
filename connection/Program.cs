@@ -7,7 +7,7 @@ namespace connection
 {
     class Program
     {
-
+	//test perubahan code
         static Data data = new Data();
         static void Main(string[] args)
         {
