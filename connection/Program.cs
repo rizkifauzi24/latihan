@@ -5,6 +5,7 @@ using connection.repositories.Data;
 
 namespace connection
 {
+	//test perubahan code ke 2 new branch
     class Program
     {
 	//test perubahan code
